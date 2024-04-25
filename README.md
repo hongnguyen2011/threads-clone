@@ -43,20 +43,20 @@ Feature List:
 
 #### login
 
-![] (threads-clone/demo/login.png)
+![](images/login.png)
 
 #### Profile
 
-![] (threads-clone/demo/newprofile.png)
+![](images/myprofile.png)
 
 #### New feed
 
-![] (threads-clone/demo/newfeed.png)
+![](images/newfeed.png)
 
 #### Change dark/light mode
 
-![] (threads-clone/demo/changelightmode.png)
+![](images/changelightmode.png)
 
 #### Chat messaging features
 
-![] (threads-clone/demo/chatmessaging.png)
+![](images/chatmessaging.png)
