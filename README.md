@@ -15,40 +15,48 @@ Feature List:
 
 ### Setup
 
-```shell
-npm install
-```
+- clone the repo
 
-### Build the app
+  ```sh
+  git clone https://github.com/hongnguyen2011/threads-clone
+  ```
 
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start / npm run dev
-```
+- start front end
+  ```sh
+  cd frontend
+  ```
+  ```sh
+  npm install
+  ```
+  ```sh
+  npm start
+  ```
+- start backend
+  ```sh
+  cd backend
+  ```
+  ```sh
+  npm run dev
+  ```
 
 ### Demo picture
 
 #### login
 
-![image desc] (./demo/login.png)
+![] (threads-clone/demo/login.png)
 
 #### Profile
 
-![image desc] (./demo/newprofile.png)
+![] (threads-clone/demo/newprofile.png)
 
 #### New feed
 
-![image desc] (./demo/newfeed.png)
+![] (threads-clone/demo/newfeed.png)
 
 #### Change dark/light mode
 
-![image desc] (./demo/changelightmode.png)
+![] (threads-clone/demo/changelightmode.png)
 
 #### Chat messaging features
 
-![image desc] (./demo/chatmessaging.png)
+![] (threads-clone/demo/chatmessaging.png)
